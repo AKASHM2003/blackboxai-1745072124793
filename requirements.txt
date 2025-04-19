@@ -1,0 +1,5 @@
+pyspark
+scikit-learn
+pymongo
+pandas
+numpy
